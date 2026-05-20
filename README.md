@@ -6,7 +6,6 @@ I am passionate about crafting modern, responsive web interfaces using React, wi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/torufa) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/torufa)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/torufa) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/devtorufa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devtorufa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@devtorufa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:torufa3@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=torufa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=torufa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=torufa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
