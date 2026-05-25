@@ -11,5 +11,5 @@ I am passionate about crafting modern, responsive web interfaces using React, wi
 ![](https://streak-stats.demolab.com/?user=torufa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=torufa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
