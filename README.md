@@ -13,3 +13,5 @@ I am passionate about crafting modern, responsive web interfaces using React, wi
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
