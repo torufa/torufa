@@ -3,8 +3,6 @@
 
 <br/>
 
-![snake gif](https://github.com/torufa/torufa/blob/output/github-contribution-grid-snake.gif)
-
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
@@ -84,8 +82,6 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ![Snake Grid](https://github.com/torufa/torufa/blob/output/github-contribution-grid-snake.svg)
 
 
