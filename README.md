@@ -1,6 +1,114 @@
+<!--- banner --->
+![Torufa Toma - Web Developer (banner) ](https://github.com/torufa/torufa/blob/main/assets/github-v1.png?raw=true)
+
+<br/>
+
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Torufa Toma</h1></summary>
+    <!--- typo --->
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=9F65FF&center=true&vCenter=true&width=500&lines=Energetic+Frontend+Developer;Passionate+about+Motion+UI;Exploring+Full-Stack+Development;Bringing+creative+ideas+to+life+with+code" alt="Typing SVG" />
+  </ul>
+</div>
+
+<br/>
+
+<!--- about --->
+- 👋 Hi, I’m **[@torufa](https://github.com/torufa)**
+- 🖥️ I’m currently working on **React.js, Typescript, GSAP, Tailwind CSS** for frontend development.
+- 🗄️ Using **Node.js, Express.js, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning **Next Js and backend architecture**.
+- 🌐 Explore My Portfolio **[Torufa Toma](https://torufa.pro.bd)** and My **[Resume](https://torufa.pro.bd/assets/TorufaToma-Frontend-Developer-Resume.pdf)**
+- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/torufa)**
+- 📫 Feel free to reach me out **[Email](torufatoma@gmail.com)**
+  
+<br/>
+
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+  <a href="https://linkedin.com/in/torufa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="@torufa" width="40" height="40" />
+  </a>
+
+  <a href="https://discord.gg/devtorufa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="@devtorufa" width="40" height="40" />
+  </a>
+
+  <a href="https://www.leetcode.com/torufa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@torufa" width="40" height="40" />
+  </a>
+
+  <a href="https://www.quora.com/profile/torufa" target="_blank">
+    <img src="https://cdn.simpleicons.org/quora/B92B27" alt="@torufa" width="40" height="40" />
+  </a>
+
+  <a href="https://www.youtube.com/@devtorufa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devtorufa" width="40" height="40" />
+  </a>
+</p>
+</div>
+
+<br/>
+
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/touhidcodes)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/touhidcodes)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
+### Repository Stats & Streak:
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+| ------------- | ------------- |
+
+<br/>
+
+<!--- random quote --->
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+
+---
+
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+
 ![Torufa Toma - Web Developer (banner) ](https://github.com/torufa/torufa/blob/main/assets/github-v1.png?raw=true)
 <div align="center">  
-  <H1> Hi 👋, I'm Tourfa Toma</H1>
+  <summary><H1> Hi 👋, I'm Tourfa Toma</H1></summary>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9F65FF&center=true&width=435&lines=Energetic+Frontend+Developer;Passionate+about+Interactive+Motion+%26+UI;Exploring+Full-Stack;Bringing+creative+ideas+to+life+with+code" alt="Typing SVG" />
 </div>
 - 👋 Hi, I'm **@torufa**
