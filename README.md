@@ -11,6 +11,7 @@
 </div>
 <br/>
 <!--- about --->
+
 - 👋 Hi, I’m **[@torufa](https://github.com/torufa)**
 - 🖥️ I’m currently working on **React.js, Typescript, GSAP, Tailwind CSS** for frontend development.
 - 🗄️ Using **Node.js, Express.js, PostgreSQL, and Prisma** for the backend.
@@ -18,6 +19,7 @@
 - 🌐 Explore My Portfolio **[Torufa Toma](https://torufa.pro.bd)** and My **[Resume](https://torufa.pro.bd/assets/TorufaToma-Frontend-Developer-Resume.pdf)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/torufa)**
 - 📫 Feel free to reach me out **[Email](torufatoma@gmail.com)**  
+
 <br/>
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
