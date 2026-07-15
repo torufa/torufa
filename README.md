@@ -1,10 +1,7 @@
 ![Torufa Toma - Web Developer (banner) ](https://github.com/torufa/torufa/blob/main/assets/github-v1.png?raw=true)
-<div align="center">
-
-  
+<div align="center">  
   <h1> Hi 👋, I'm Tourfa Toma</h1>
- </h2> Full Stack Web Developer</h2>
-
+ <h2> Full Stack Web Developer</h2>
 </div>
 # 💫 About Me:
 I am passionate about crafting modern, responsive web interfaces using React, with a strong focus on creating smooth and engaging animations. I enjoy working on frontend-focused projects, especially those involving creative UI/UX ideas and open-source contributions. Currently, I am expanding my skills towards backend development, API architecture, and aiming to become a full-stack developer.
