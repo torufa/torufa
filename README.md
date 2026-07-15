@@ -58,22 +58,23 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/torufa)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/torufa)
 
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/torufa)
+### CSS Frameworks
+[![CSS Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/torufa)
 
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,gsap,nodejs,express)](https://github.com/torufa)
+### JavaScript Frameworks
+[![JavaScript Frameworks](https://skillicons.dev/icons?i=react,nodejs)](https://github.com/torufa)
 
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=sql,postgres,prisma)](https://github.com/torufa)
+### Database
+[![Database](https://skillicons.dev/icons?i=postgres)](https://github.com/torufa)
 
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,canva,ai,ps)](https://github.com/torufa)
+### Design
+[![Design](https://skillicons.dev/icons?i=figma,canva,ai,ps)](https://github.com/torufa)
 
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman,docker)](https://github.com/torufa)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,notion)](https://github.com/torufa)
 
 <br/>
 
