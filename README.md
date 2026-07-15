@@ -59,22 +59,22 @@
 
 ### Languages:
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/torufa)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/torufa)
 
-### CSS Frameworks
-[![CSS Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/torufa)
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/torufa)
 
-### JavaScript Frameworks
-[![JavaScript Frameworks](https://skillicons.dev/icons?i=react,nodejs)](https://github.com/torufa)
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/torufa)
 
-### Database
-[![Database](https://skillicons.dev/icons?i=postgres)](https://github.com/torufa)
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=postgres,prisma)](https://github.com/torufa)
 
-### Design
-[![Design](https://skillicons.dev/icons?i=figma,canva,ai,ps)](https://github.com/torufa)
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/torufa)
 
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,notion)](https://github.com/torufa)
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman,docker)](https://github.com/torufa)
 
 <br/>
 
@@ -82,7 +82,10 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/torufa/contribution-snake/blob/output/grid.svg)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+![Snake Grid](https://github.com/torufa/torufa/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### GitHub Statistics:
