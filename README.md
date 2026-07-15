@@ -100,6 +100,15 @@
 
 <br/>
 <!--- visit count --->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=torufa&label=Profile%20views&color=9F65FF&style=flat" alt="torufa" /> 
-</p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://komarev.com/ghpvc/?username=torufa&label=Profile%20views&color=9F65FF&style=flat" alt="torufa" />
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://ko-fi.com/torufa" target="_blank">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" height="28" />
+      </a>
+    </td>
+  </tr>
+</table>
