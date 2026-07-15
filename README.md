@@ -1,8 +1,6 @@
 <!--- banner --->
 ![Torufa Toma - Web Developer (banner) ](https://github.com/torufa/torufa/blob/main/assets/github-v1.png?raw=true)
-
 <br/>
-
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
@@ -11,9 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=9F65FF&center=true&vCenter=true&width=500&lines=Energetic+Frontend+Developer;Passionate+about+Motion+UI;Exploring+Full-Stack+Development;Bringing+creative+ideas+to+life+with+code" alt="Typing SVG" />
   </ul>
 </div>
-
 <br/>
-
 <!--- about --->
 - 👋 Hi, I’m **[@torufa](https://github.com/torufa)**
 - 🖥️ I’m currently working on **React.js, Typescript, GSAP, Tailwind CSS** for frontend development.
@@ -21,13 +17,10 @@
 - 🛠️ I’m currently learning **Next Js and backend architecture**.
 - 🌐 Explore My Portfolio **[Torufa Toma](https://torufa.pro.bd)** and My **[Resume](https://torufa.pro.bd/assets/TorufaToma-Frontend-Developer-Resume.pdf)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/torufa)**
-- 📫 Feel free to reach me out **[Email](torufatoma@gmail.com)**
-  
+- 📫 Feel free to reach me out **[Email](torufatoma@gmail.com)**  
 <br/>
-
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-
 <div>
   <p align="left">
   <a href="https://linkedin.com/in/torufa" target="_blank">
@@ -55,8 +48,7 @@
 <br/>
 
 <!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
-
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</br>
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/torufa)
 
@@ -74,15 +66,12 @@
 
 ### Tools & Technologies:
 [![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman,docker)](https://github.com/torufa)
-
 <br/>
 
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
 ### GitHub Contributions:
 ![Snake Grid](https://github.com/torufa/torufa/blob/output/github-contribution-grid-snake.svg)
-
 
 ### Repository Stats & Streak:
 <table width="100%">
