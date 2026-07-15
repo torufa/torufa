@@ -3,6 +3,8 @@
 
 <br/>
 
+![snake gif](https://github.com/torufa/torufa/blob/output/github-contribution-grid-snake.gif)
+
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
