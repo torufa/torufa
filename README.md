@@ -1,8 +1,9 @@
 ![Torufa Toma - Web Developer (banner) ](https://github.com/torufa/torufa/blob/main/assets/github-v1.png?raw=true)
 <div align="center">
+
   
-  # Hi 👋, I'm Tourfa Toma
-  ## Full Stack Web Developer
+  <h1> Hi 👋, I'm Tourfa Toma</h1>
+ </h2> Full Stack Web Developer</h2>
 
 </div>
 # 💫 About Me:
