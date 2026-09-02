@@ -62,18 +62,6 @@
 ![Snake Grid](https://github.com/torufa/torufa/blob/output/github-contribution-grid-snake.svg)
 
 ### Repository Stats & Streak:
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <!-- GitHub Streak Stats (Swift Theme) -->
-      <img src="https://streak-stats.demolab.com/?user=torufa&theme=swift&hide_border=true" width="100%" alt="GitHub Streak Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <!-- Random Dev Quote (Aligned & Fitted) -->
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="100%" alt="Dev Quote" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 <!--- visit count --->
