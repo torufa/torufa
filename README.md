@@ -17,13 +17,26 @@
 - 🗄️ Using **Node.js, Express.js, PostgreSQL, and Prisma** for the backend.
 - 🛠️ I’m currently learning **Next Js and backend architecture**.
 - 🌐 Explore My Portfolio **[Torufa Toma](https://torufa.pro.bd)** and My **[Resume](https://torufa.pro.bd/assets/TorufaToma-Frontend-Developer-Resume.pdf)**
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/torufa)**
+- 📝 I write articles on **[LinkedIn](https://linkedin.com/in/torufa)**
 - 📫 Feel free to reach me out **[Email](torufatoma@gmail.com)**  
 
 <br/>
+
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</br>
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=nodejs,express,react,next)](https://github.com/torufa)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/torufa)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/torufa)
+[![Database & Model](https://skillicons.dev/icons?i=postgres,prisma)](https://github.com/torufa)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/torufa)
+[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman)](https://github.com/torufa)
+
+
+<br/>
+
 <!--- socials --->
 
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</br>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ON SOCIALS:</br>
 
 <div>
   <p align="left">
@@ -35,41 +48,12 @@
     <img src="https://skillicons.dev/icons?i=discord" alt="@devtorufa" width="40" height="40" />
   </a>
 
-  <a href="https://www.leetcode.com/torufa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@torufa" width="40" height="40" />
-  </a>
-
   <a href="https://www.quora.com/profile/torufa" target="_blank">
     <img src="https://cdn.simpleicons.org/quora/B92B27" alt="@torufa" width="40" height="40" />
   </a>
 
-  <a href="https://www.youtube.com/@devtorufa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devtorufa" width="40" height="40" />
-  </a>
 </p>
 </div>
-
-<br/>
-
-<!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</br>
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/torufa)
-
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/torufa)
-
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/torufa)
-
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=postgres,prisma)](https://github.com/torufa)
-
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/torufa)
-
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman,docker)](https://github.com/torufa)
 <br/>
 
 <!--- statistics --->
